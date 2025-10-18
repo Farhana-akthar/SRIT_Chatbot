@@ -13,6 +13,9 @@ This chatbot helps students and visitors quickly find answers about the college 
 - 🌐 Deployed online using **Streamlit Cloud**
 
 ---
+## 🌍 Live Demo
+
+Try the chatbot here: [SRIT Help Chatbot](https://sritchatbot-mgsthkxd5omw9nyrtmcuj3.streamlit.app/)
 
 ## 🗂️ Project Structure
 
